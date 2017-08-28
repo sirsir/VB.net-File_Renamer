@@ -1,0 +1,16 @@
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Resources\PLC1.xls
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Resources\config.json
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Newtonsoft.Json.dll
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.vbprojResolveAssemblyReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.vbproj.ResolveComReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\WindowsApplication1.frmMain.resources
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\WindowsApplication1.Resources.resources
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.vbproj.GenerateResource.Cache
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-REN.exe.config
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-REN.exe
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-REN.pdb
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-REN.xml
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.exe.licenses
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.exe
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.xml
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-REN.pdb

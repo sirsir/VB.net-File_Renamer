@@ -1,0 +1,50 @@
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Resources\PLC1.xls
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Resources\config.json
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.exe.config
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Newtonsoft.Json.dll
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Newtonsoft.Json.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\BALL-PLC DATA ACCESS.vbprojResolveAssemblyReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.frmDatagrid.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.frmMain.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.Resources.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\BALL-PLC DATA ACCESS.vbproj.GenerateResource.Cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.exe.licenses
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\Resources\PLC1.xls
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\Resources\config.json
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\Newtonsoft.Json.dll
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.vbprojResolveAssemblyReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\WindowsApplication1.frmDatagrid.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\WindowsApplication1.frmMain.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\WindowsApplication1.Resources.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.vbproj.GenerateResource.Cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\BALL-PLC DATA ACCESS.exe.config
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\BALL-PLC DATA ACCESS.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\BALL-PLC DATA ACCESS.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\bin\Debug\BALL-PLC DATA ACCESS.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.exe.licenses
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\BALL-PLC DATA ACCESS\obj\Debug\BALL-PLC DATA ACCESS.pdb
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-PLC DATA ACCESS.exe.config
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.exe
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.xml
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.pdb
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Resources\PLC1.xls
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Resources\config.json
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-PLC DATA ACCESS.exe
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-PLC DATA ACCESS.pdb
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\BALL-PLC DATA ACCESS.xml
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\bin\Debug\Newtonsoft.Json.dll
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.vbprojResolveAssemblyReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\WindowsApplication1.frmDatagrid.resources
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\WindowsApplication1.frmMain.resources
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\WindowsApplication1.Resources.resources
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.vbproj.GenerateResource.Cache
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.exe.licenses
+D:\TSE Projects\BALL-TEST\Ball-Renamer\BALL-File Renamer\obj\Debug\BALL-PLC DATA ACCESS.vbproj.ResolveComReference.cache

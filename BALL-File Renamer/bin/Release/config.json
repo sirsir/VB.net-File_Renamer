@@ -1,0 +1,33 @@
+{
+    "excelDependent":{
+        "address":{"heading":"DM#", "regular expression":""}, 
+        "datatype":{"heading":"Data Type", "regular expression":""},
+        "total words":{"heading":"Total Words", "regular expression":""},
+        "current value":{"heading":"Current Value", "regular expression":""}
+    },
+    "strings":{
+        "datatype":{"uint":"UINT", "real":"REAL", "ascii":"ASCII"},
+        "worksheet.name":"ren",
+        "worksheet.nameForFistLevel":"renForFistLevel",
+		"worksheet.nameForSkipFiles":"SkipFiles"
+        
+    },
+	"buttons":[
+        {"text":"rename all Files in subdir", "function":"RenameFileBasedOnExcel1"}, 
+        {"text":"rename Files/Dir in dir(1st level)", "function":"RenameFileBasedOnExcel2"}, 
+        {"text":"prepare first level(file+folder)", "function":"PrepareFileForRenameFirstLevel"}, 
+		{"text":"prepare all sub dir(file only)", "function":"PrepareFileForRenameAllSubDir"}, 
+		{"text":"Open 'config.json'", "function":"OpenFileJson"}, 
+		{"text":"Open 'ren.xls'", "function":"OpenFileExcel"}, 
+		{"text":"Check what NON-EXIST", "function":"CheckNONExist"}, 
+    ],
+    "filenames":{
+        "excel4rename":"ren.xls",
+		"XnewFilename":{"RegExpFindWhat":"^.*?(\\d+).*$","RegExpReplaceWith":"$1"} ,
+		"XnewFilename":{"RegExpFindWhat":"^.*?(\\d+).?(\\.[^.]*?)$","RegExpReplaceWith":"$1$2"} ,
+		"XnewFilename":{"RegExpFindWhat":"^.*?_(\\d+)_.*?(\\.[^.]*?)$","RegExpReplaceWith":"$1$2"} ,
+		"XnewFilename":{"RegExpFindWhat":"^.*?(\\d+).*$","RegExpReplaceWith":"{intRow}.exe"},
+		"XnewFilename":{"RegExpFindWhat":"^.*?(\\d+).*$","RegExpReplaceWith":"{intRow}.exe"},
+		"newFilename":{"RegExpFindWhat":"^.*銀魂 -=-  (\\d+).*$","RegExpReplaceWith":"$1.exe"},
+    }
+}

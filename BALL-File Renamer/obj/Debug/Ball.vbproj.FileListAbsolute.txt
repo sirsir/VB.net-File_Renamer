@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Resources\PLC1.xls
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Ball.exe.config
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Ball.exe
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Ball.pdb
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Ball.xml
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\WindowsApplication1.frmDatagrid.resources
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.exe.licenses
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.exe
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.xml
+C:\Users\Administrator\Desktop\VB_PROJECTS\BALL\Ball\Ball\obj\Debug\Ball.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.exe.config
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Resources\PLC1.xls
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Newtonsoft.Json.dll
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Newtonsoft.Json.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.vbprojResolveAssemblyReference.cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.frmDatagrid.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.frmMain.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\WindowsApplication1.Resources.resources
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.vbproj.GenerateResource.Cache
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\obj\Debug\Ball.exe.licenses
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.exe
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.pdb
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Ball.xml
+D:\TSE Projects\BALL-TEST\Ball-Background Worker\Ball\bin\Debug\Resources\config.json
